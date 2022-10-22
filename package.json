@@ -1,0 +1,24 @@
+{
+  "name": "zhxdDocs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fanchen4139/zhxdDocs.git"
+  },
+  "keywords": [],
+  "author": "FanChen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fanchen4139/zhxdDocs/issues"
+  },
+  "homepage": "https://github.com/fanchen4139/zhxdDocs#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.51"
+  }
+}
